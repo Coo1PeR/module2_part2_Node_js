@@ -1,5 +1,5 @@
-## Module 1 \ Part 3  
-### JS, Web basics
+## Module 2 \ Part 2  
+### Node.js
 [Issues](https://github.com/Coo1PeR/module2_part2_Node_js/issues)
 ___
 Author [Artem Kravchenko](https://github.com/Coo1PeR)
