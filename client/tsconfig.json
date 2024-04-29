@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./javaScript",
+    "allowJs": true,
+    "target": "es6"
+  },
+  "files": [
+    "gallery.ts",
+    "login.ts"
+  ]
+}
